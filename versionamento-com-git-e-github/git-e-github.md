@@ -32,6 +32,6 @@ ___
     - __`$ git reset --mixed`__
     - __`$ git reset --hard`__
 ___
-- Para pegar um arquivo do repositorio remoto para local utiliza-se o  __`$ git push -u <nome do remote> <nome da branch>`__
+- Para pegar um arquivo do repositorio remoto para local utiliza-se o  __`$ git pull -u <nome do remote> <nome da branch>`__
 ___
-- Já para pegar um arquivo local e levar para o remoto usa o __`$ git pull -u <nome do remote> <nome da branch>`__
+- Já para pegar um arquivo local e levar para o remoto usa o __`$ git push -u <nome do remote> <nome da branch>`__
